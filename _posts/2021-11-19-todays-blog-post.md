@@ -1,10 +1,4 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title: "Blogspot"
+date: 2021-11-19
 ---
-
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
